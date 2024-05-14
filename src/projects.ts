@@ -29,7 +29,7 @@ const projects = [
 	{
 		image: youbu,
 		title: "YouBeeU",
-		description: "A social media platform. The platform is available on the web, iPhone, and Android devices. My main task was to build the APIs for everything related to feeds, using Laravel framework.",
+		description: "A social media platform. The platform is available on the web, iPhone, and Android devices. My main task was to build the APIs for everything related to feeds, using the Laravel framework.",
 		url: "https://youbeeu.com.au/feed/all/",
 	},
 	{
@@ -48,7 +48,7 @@ const projects = [
 		image: portfolio4,
 		title: "جمعية الصداقة العراقية الصينية",
 		isArabic: true,
-		description: "I developed this website for restaurant in KSA, Technologies used: HTML, CSS, Bootstrap 5, JavaScript and Jquery in Frontend, PHP and mySQL in Backend.",
+		description: "IQCH It is a website with full control over the content through the dashboard, I developed the front end and participated in the development of the back end.",
 		url: "https://iqch.org/",
 	},
 	{
