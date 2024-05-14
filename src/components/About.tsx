@@ -23,15 +23,6 @@ const About = () => {
 				<div className="about-container">
 					<div className="image" data-aos="zoom-out">
 						<Lottie options={lottieOptions} height={350} width={350} />
-
-						{/* <dotlottie-player
-							src="https://lottie.host/8a43feea-5ed1-48c1-95a2-03821bd88c4f/pRYfmKDN8S.json"
-							background="transparent"
-							speed="1"
-							style="width: 350px; height: 350px"
-							loop
-							autoplay
-						></dotlottie-player> */}
 					</div>
 					<div className="text">
 						<p data-aos="fade-up">
