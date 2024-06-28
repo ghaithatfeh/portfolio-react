@@ -20,8 +20,16 @@ function App() {
 	const [showLoading, setShowLoading] = useState(true);
 
 	useEffect(() => {
-		setShowLoading(false);
-		document.documentElement.style.overflowY = "inherit";
+		const handleLoad = () => {
+			setShowLoading(false);
+			document.documentElement.style.overflowY = "inherit";
+		};
+
+		window.addEventListener("load", handleLoad);
+
+		return () => {
+			window.removeEventListener("load", handleLoad);
+		};
 	}, []);
 
 	return (
