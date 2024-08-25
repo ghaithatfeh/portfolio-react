@@ -22,9 +22,9 @@ const Contact = () => {
 							<p>Facebook</p>
 							<p>ghaith.atfeh0</p>
 						</a>
-						<a href="https://www.linkedin.com/in/ghaith-atfeh/" target="blank">
+						<a href="https://www.linkedin.com/in/ghaithatfeh/" target="blank">
 							<p>Linkedin</p>
-							<p>ghaith-atfeh</p>
+							<p>ghaithatfeh</p>
 						</a>
 						<a href="mailto:a89ghaith@gmail.com">
 							<p>Gmail</p>
