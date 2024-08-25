@@ -24,7 +24,7 @@ const projects = [
 		isArabic: true,
 		description:
 			"Al Waseet is an Arab platform that helps business owners to access the best professional freelance workers to contract with them to do business and projects online.",
-		url: "https://wasset-demo.ghaithatfeh.tech/",
+		url: "https://wasset-demo.ghaithatfeh.online/",
 	},
 	{
 		image: youbu,
@@ -36,7 +36,7 @@ const projects = [
 		image: ancestry,
 		title: "Ancestry App",
 		description: "A web application for mobiles and tablets built for an art event in Canada to view paintings and scan them to convert them to 3D objects. I built it with Vue.js and deployed it to AWS.",
-		url: "https://historyrevealed.ghaithatfeh.tech/",
+		url: "https://historyrevealed.ghaithatfeh.online/",
 	},
 	{
 		image: crisper,
@@ -55,19 +55,19 @@ const projects = [
 		image: moneyManagement,
 		title: "Money Management System",
 		description: "Light accounting web application for recording financial transactions (incoming - outcoming) and giving chart reports, supports both English and Arabic languages, developed using Yii2 Framework.",
-		url: "https://money-management.ghaithatfeh.tech/",
+		url: "https://money-management.ghaithatfeh.online/",
 	},
 	{
 		image: portfolio3,
 		title: "Morsbach Maschinenbau GmbH",
 		description: "Website for a mechanical company, full control of the content through the dashboard, displaying products and send orders, I designed and developed for the frontend and backend.",
-		url: "http://mmb-demo.ghaithatfeh.tech/",
+		url: "http://mmb-demo.ghaithatfeh.online/",
 	},
 	{
 		image: portfolio5,
 		title: "Offers Dashboard",
 		description: "This project involved creating a dashboard to manage and provide a RESTful API for a mobile application. It supports multiple roles and languages. developed using Laravel Framework.",
-		url: "https://offers-demo.ghaithatfeh.tech/",
+		url: "https://offers-demo.ghaithatfeh.online/",
 	},
 	{
 		image: portfolio8,
