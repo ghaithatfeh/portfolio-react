@@ -3,7 +3,7 @@ import { faWandMagicSparkles, faGem, faGlobeAsia } from "@fortawesome/free-solid
 
 const Features = () => {
 	return (
-		<section className="features">
+		<section className="features" id="features">
 			<div className="container">
 				<div className="feat" data-aos="fade-right">
 					<FontAwesomeIcon icon={faWandMagicSparkles} size="3x" color="#10cab7" />
