@@ -10,6 +10,7 @@ import portfolio7 from "./assets/images/portfolio7.png";
 import portfolio8 from "./assets/images/portfolio8.png";
 import portfolio10 from "./assets/images/portfolio10.png";
 import portfolio9 from "./assets/images/portfolio9.png";
+import gamehub from "./assets/images/gamehub.png";
 
 const projects = [
 	{
@@ -80,6 +81,12 @@ const projects = [
 		title: "Abba Medix",
 		description: "An e-commerce platform in Canada, built with Shopify, Node.js, Strapi, PostgreSQL, and hosted on AWS. I implemented numerous improvements in both the frontend and backend of this project.",
 		url: "https://abbamedix.com/",
+	},
+	{
+		image: gamehub,
+		title: "GameHub",
+		description: "A video game discovery web app that helps you find new and interesting games to play. With GameHub, you can search for games by platform, genre, and more. Built with ReactJS, Chakra UI, React Query, and Zustand.",
+		url: "https://gamehub.ghaithatfeh.online/",
 	},
 	{
 		image: portfolio9,
