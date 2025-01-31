@@ -36,7 +36,7 @@ const projects = [
 	{
 		image: ancestry,
 		title: "Ancestry App",
-		description: "A web application for mobiles and tablets built for an art event in Canada to view paintings and scan them to convert them to 3D objects. I built it with Vue.js and deployed it to AWS.",
+		description: "A web application for mobiles and tablets built for an art event in Canada to view paintings and scan them to convert them to 3D objects. I built it from scratch using Vue.js and Onirix, then deployed to AWS.",
 		url: "https://historyrevealed.ghaithatfeh.online/",
 	},
 	{
