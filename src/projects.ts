@@ -8,7 +8,7 @@ import portfolio3 from "./assets/images/portfolio3.jpg";
 import portfolio5 from "./assets/images/portfolio5.jpeg";
 import portfolio7 from "./assets/images/portfolio7.png";
 import portfolio8 from "./assets/images/portfolio8.png";
-import portfolio10 from "./assets/images/portfolio10.png";
+// import portfolio10 from "./assets/images/portfolio10.png";
 import portfolio9 from "./assets/images/portfolio9.png";
 import gamehub from "./assets/images/gamehub.png";
 
@@ -76,12 +76,12 @@ const projects = [
 		description: "Web application allows users to create news articles with styleable text and GIFs. I built it with Laravel, Node.js, and Vue.js.",
 		url: "https://github.com/ghaithatfeh/news_articles/",
 	},
-	{
-		image: portfolio10,
-		title: "Abba Medix",
-		description: "An e-commerce platform in Canada, built with Shopify, Node.js, Strapi, PostgreSQL, and hosted on AWS. I implemented numerous improvements in both the frontend and backend of this project.",
-		url: "https://abbamedix.com/",
-	},
+	// {
+	// 	image: portfolio10,
+	// 	title: "Abba Medix",
+	// 	description: "An e-commerce platform in Canada, built with Shopify, Node.js, Strapi, PostgreSQL, and hosted on AWS. I implemented numerous improvements in both the frontend and backend of this project.",
+	// 	url: "https://abbamedix.com/",
+	// },
 	{
 		image: gamehub,
 		title: "GameHub",
